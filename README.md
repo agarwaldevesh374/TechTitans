@@ -1,2 +1,2 @@
 # TechTitans
-GFG - 
+GFG - Solving for India Hackathon 2023
